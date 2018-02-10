@@ -1,0 +1,23 @@
+* {
+     margin: 0;
+     padding: 0;
+     border: 0;
+}
+.container {
+     max-width: 100%;
+     margin: 0 auto;
+     background: #f9f9f9;
+     font-size: 24px;
+     padding: 25px;
+}
+.parallax {
+     padding: 100px 35px;
+     background: transparent;
+}
+
+.details {
+     z-index: 2;
+     position: relative;
+     color: white;
+
+}
